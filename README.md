@@ -8,3 +8,5 @@ The Garden Gnomes and Lawn Flamingos have a long standing feud. Today they will 
 
 
 
+
+<a href='https://learn.co/lessons/hs-gnomes-v-flamingos' data-visibility='hidden'>View this lesson on Learn.co</a>
